@@ -65,8 +65,8 @@ USD, PKR, EUR, GBP, INR, CAD, AUD, CNY (Live exchange rates!)
 ---
 
 ## 📸 Demo Screenshot
-[*Unit-AI*
-](https://github.com/smaasui/Unit-AI/blob/main/Screenshot.png)
+![Data Duster](https://github.com/smaasui/Unit-AI/blob/main/Screenshot.png)
+
 ---
 
 ## 🎯 Future Enhancements
